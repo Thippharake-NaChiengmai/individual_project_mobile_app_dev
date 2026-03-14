@@ -31,5 +31,9 @@ selected: Instagrams
   
 ## Explanation About Page
 
+### In terms of usability
+
+### In terms of technical
+
 ## Apply form P'tao's class Lesson
 
