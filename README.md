@@ -1,6 +1,8 @@
 # individual_project_mobile_app_dev
 
-A new Flutter project.
+A Mobile App Dev Flutter project.
+
+Presented_By_Thippharake_Na_Chiengmai_662115019
 
 ## Getting Started
 
