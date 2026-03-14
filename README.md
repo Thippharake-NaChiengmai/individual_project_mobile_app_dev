@@ -1,6 +1,6 @@
 # individual_project_mobile_app_dev
 
-A Mobile App Dev Flutter project.
+***A Mobile App Dev INdividual project***
 
 **Presented By:** __Thippharake Na Chiengmai__ __662115019__
 
