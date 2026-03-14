@@ -17,7 +17,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Mobile Application Selected 
+## Mobile Application Selected Page
 
 selected: Instagrams
 
@@ -31,9 +31,9 @@ selected: Instagrams
   
 ## Explanation About Page
 
-### In terms of usability
+### In Terms of Usability
 
-### In terms of technical
+### In Terms of Technical
 
 ## Apply form P'tao's class Lesson
 
