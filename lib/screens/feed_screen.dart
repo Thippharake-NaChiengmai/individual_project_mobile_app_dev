@@ -43,8 +43,8 @@ class FeedScreen extends StatelessWidget {
         ),
         centerTitle: true,
         elevation: 0,
-        backgroundColor: Colors.white,
-        foregroundColor: Colors.black,
+        backgroundColor: Colors.black,
+        foregroundColor: Colors.white,
       ),
       bottomNavigationBar: isMobile
           ? BottomNavigationBar(
@@ -171,10 +171,10 @@ class _SidebarPlaceholder extends StatelessWidget {
                   spacing: 8,
                   runSpacing: 6,
                   children: const [
-                    Chip(label: Text('#flutter')),
-                    Chip(label: Text('#responsive')),
-                    Chip(label: Text('#design')),
-                    Chip(label: Text('#uiux')),
+                    Chip(label: Text('#Wellness')),
+                    Chip(label: Text('#tierlist')),
+                    Chip(label: Text('#low-cositol')),
+                    Chip(label: Text('#funny')),
                   ],
                 ),
               ],
