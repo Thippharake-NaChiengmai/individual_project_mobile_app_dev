@@ -145,7 +145,7 @@ class FeedScreen extends StatelessWidget {
 }
 
 class _SidebarPlaceholder extends StatelessWidget {
-  const _SidebarPlaceholder({super.key});
+  const _SidebarPlaceholder();
 
   @override
   Widget build(BuildContext context) {
@@ -227,7 +227,7 @@ class _SidebarPlaceholder extends StatelessWidget {
 }
 
 class _LeftNav extends StatelessWidget {
-  const _LeftNav({super.key});
+  const _LeftNav();
 
   @override
   Widget build(BuildContext context) {
