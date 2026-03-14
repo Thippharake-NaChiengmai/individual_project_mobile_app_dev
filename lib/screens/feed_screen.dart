@@ -20,7 +20,7 @@ class FeedScreen extends StatelessWidget {
         author: 'User ${i + 1}',
         avatarUrl: null,
         text: '$_sampleText (post ${i + 1})',
-        imageUrl: i % 3 == 0 ? 'https://picsum.photos/seed/$i/600/300' : null,
+        imageUrl: 'https://picsum.photos/seed/$i/600/300',
         likes: 3 * i + 1,
         comments: List.generate(
           i % 3 + 1,
