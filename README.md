@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Mobile Application Selected Page
 
-selected: Instagrams
+selected: Instagrams(Home Page)
 
 ## Responsive Page Preview
 
